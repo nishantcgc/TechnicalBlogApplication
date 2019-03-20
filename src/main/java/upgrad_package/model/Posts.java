@@ -1,4 +1,4 @@
-package model;
+package upgrad_package.model;
 
 import java.util.Date;
 
